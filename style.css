@@ -58,17 +58,19 @@ p{
     background-color: #9499EA;
     border: none;
     border-radius: 30px;
-    font-size: 24px;
+    font-size: 26px;
     color: #fff;
     cursor: pointer;
     margin-top: 15px;
+    transition: 0.5s;
 
 }
 .botao:hover{
     opacity: .8;
 }
 .botao:active{
-    opacity: .5;
+    transform: scale(0.9);
+    background: #6363ed;
 }
 header{
     margin: 24px 0 0 57px;
@@ -85,7 +87,12 @@ header{
     opacity: 40%;  
 }
 .link-header:hover{
-    opacity: .9;
+    background: #6da1e0;
+    border-radius: 7px;
+    padding: 0 5px;
+    border-style:solid;
+    transition: 0.5s;
+    color: #fff;
 }
 .link-header:active{
     opacity: 0.4;
@@ -101,7 +108,7 @@ header{
 .container-right{
     display: block;
     position: static;
-    height: auto;
+    height: 100%;
     width: 100%;
     padding: 40px;
 }
@@ -133,9 +140,9 @@ p{
     display: block; /*Para que haja o alinhamento centralizado na imgaem ou botão*/
 }
 }
-@media screen and (max-width: 430px ){
+@media screen and (max-width: 375px ){
     .container-left{
-    height: 55%;
+    height: 47%;
 }
 }
 /*Explicação do Código
