@@ -11,19 +11,27 @@ Projeto criado para simular uma interface de compras online via dispositivos mó
 ---
 
 ## 🚀 Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- Git & GitHub
-- Responsividade (Media Queries, Flexbox)
-
----
+<br>
+<div display= "inline">
+•<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />
+  <br>
+•<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css-logo" />
+ <br>
+•<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git-logo" /> 
+ <br>
+•<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github-logo" />
+ <br>
+•<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Gitpage-logo" />
+</div>
+<br>
+<br>
 
 ## 🎯 Objetivo do Projeto
 
 Este é o meu **segundo projeto**, desenvolvido como parte do meu aprendizado em desenvolvimento front-end.  
 Busquei aplicar:
-
+<br>
+<br>
 - Estruturação semântica com HTML
 - Estilização com CSS de forma moderna e organizada
 - Criação de layout **totalmente responsivo**
