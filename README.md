@@ -8,7 +8,7 @@ Projeto criado para simular uma interface de compras online via dispositivos mó
 ## 📱 Prévia
 
 ![Imagem do projeto](https://github.com/willians-wil/Segundo-Projeto-responsivo-Easy-shopping/blob/main/assets/easy%20shopping%20logo%20desktop.png?raw=true)
-<img src="https://github.com/willians-wil/Segundo-Projeto-responsivo-Easy-shopping/blob/main/assets/easy%20shopping%20logo%20mobile.png?raw=true" /><!-- Você pode colocar aqui um print do projeto -->
+<img src="https://github.com/willians-wil/Segundo-Projeto-responsivo-Easy-shopping/blob/main/assets/easy%20shopping%20logo%20mobile.png?raw=true" align="center" /><!-- Você pode colocar aqui um print do projeto -->
 <br>
 <br>
 
