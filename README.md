@@ -7,7 +7,8 @@ Projeto criado para simular uma interface de compras online via dispositivos mó
 
 ## 📱 Prévia
 
-![Imagem do projeto](https://github.com/willians-wil/Segundo-Projeto-responsivo-Easy-shopping/blob/main/assets/easy%20shopping%20logo%20desktop.png?raw=true) <!-- Você pode colocar aqui um print do projeto -->
+![Imagem do projeto](https://github.com/willians-wil/Segundo-Projeto-responsivo-Easy-shopping/blob/main/assets/easy%20shopping%20logo%20desktop.png?raw=true)
+<img src="https://github.com/willians-wil/Segundo-Projeto-responsivo-Easy-shopping/blob/main/assets/easy%20shopping%20logo%20mobile.png?raw=true" /><!-- Você pode colocar aqui um print do projeto -->
 <br>
 <br>
 
@@ -35,7 +36,6 @@ Projeto criado para simular uma interface de compras online via dispositivos mó
 
 Este é o meu **segundo projeto**, desenvolvido como parte do meu aprendizado em desenvolvimento front-end.  
 Busquei aplicar:
-<br>
 <br>
 - Estruturação semântica com HTML
 - Estilização com CSS de forma moderna e organizada
