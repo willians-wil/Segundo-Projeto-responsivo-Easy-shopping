@@ -1,10 +1,15 @@
 # 🛒 Easy Shopping via Mobile
+<br>
 
 Projeto criado para simular uma interface de compras online via dispositivos móveis, com foco em design responsivo e boas práticas de HTML e CSS.
+<br>
+<br>
 
 ## 📱 Prévia
 
-![Imagem do projeto](http://127.0.0.1:5500/index.html) <!-- Você pode colocar aqui um print do projeto -->
+![Imagem do projeto](https://github.com/willians-wil/Segundo-Projeto-responsivo-Easy-shopping/blob/main/assets/easy%20shopping%20logo%20desktop.png?raw=true) <!-- Você pode colocar aqui um print do projeto -->
+<br>
+<br>
 
 🔗 **[Clique aqui para visualizar o projeto online](https://seuusuario.github.io/seu-repositorio)** <!-- Substitua com o link do GitHub Pages se disponível -->
 
@@ -49,9 +54,3 @@ Busquei aplicar:
 - Como publicar um projeto com o **GitHub Pages**
 
 ---
-
-## 📂 Como visualizar localmente
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seuusuario/seu-repositorio
