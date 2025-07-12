@@ -12,7 +12,7 @@ Projeto criado para simular uma interface de compras online via dispositivos mó
 <br>
 <br>
 
-🔗 **[Clique aqui para visualizar o projeto online](https://seuusuario.github.io/seu-repositorio)** <!-- Substitua com o link do GitHub Pages se disponível -->
+🔗 **[Clique aqui para visualizar o projeto online](https://willians-wil.github.io/Segundo-Projeto-responsivo-Easy-shopping/)** <!-- Substitua com o link do GitHub Pages se disponível -->
 
 ---
 
